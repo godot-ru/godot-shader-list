@@ -1,5 +1,5 @@
 
-# Godot shaders list
+# Godot shader list
 A list of useful examples of shaders for Godot 3.*
 Dear colleagues, if you have interesting or useful examples of shaders in Godot, please send your suggestions and pull-quests. 
 We with great pleasure will expanded that list.
